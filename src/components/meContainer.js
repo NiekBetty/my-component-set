@@ -1,5 +1,5 @@
 (() => ({
-  name: "MeContainer",
+  name: "MeGusta",
   type: "BODY_COMPONENT",
   allowedTypes: [],
   orientation: "HORIZONTAL",

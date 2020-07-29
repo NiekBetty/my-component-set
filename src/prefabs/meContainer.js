@@ -1,10 +1,10 @@
 (() => ({
-  name: 'MeContainer',
+  name: 'MeGusta',
   icon: 'TitleIcon',
   category: 'CONTENT',
   structure: [
     {
-      name: 'MeContainer',
+      name: 'MeGusta',
       options: [
         {
           type: 'AUTHENTICATION_PROFILE',

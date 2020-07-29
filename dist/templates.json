@@ -1,1 +1,1 @@
-[{"name":"MeContainer","type":"BODY_COMPONENT","allowedTypes":[],"orientation":"HORIZONTAL","jsx":"<div>\n      <h1 className={classes.root}>profile: {options.authProfile}</h1>\n    </div>","styles":"B => ({\n  typography\n}) => ({})","functions":[],"triggers":[]}]
+[{"name":"MeGusta","type":"BODY_COMPONENT","allowedTypes":[],"orientation":"HORIZONTAL","jsx":"<div>\n      <h1 className={classes.root}>profile: {options.authProfile}</h1>\n    </div>","styles":"B => ({\n  typography\n}) => ({})","functions":[],"triggers":[]}]
